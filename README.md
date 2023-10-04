@@ -16,7 +16,7 @@
 Нажимаем на NEW HOST
 ![image](https://github.com/DmitryNABCHELNY/skypebot_install/assets/105298099/a3f8f322-f2ad-49b4-9aa0-f958d4a5ed53)
 
-Слева видим следующее:
+Справа видим следующее:
 
 ![image](https://github.com/DmitryNABCHELNY/skypebot_install/assets/105298099/2ee050a3-3a18-4bd7-8d60-ba5dc1dc2aa0)
 
